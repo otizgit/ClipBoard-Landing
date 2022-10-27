@@ -25,6 +25,6 @@ mode.addEventListener('click', function(){
         boxes.classList.toggle('color-change')
     })
     nav1.forEach(function(navs){
-        navs.classList.toggle('color-change')
+        navs.classList.toggle('nav-change')
     })
 })

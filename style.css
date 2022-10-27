@@ -18,15 +18,14 @@
 }
 .color-change h1,
 .color-change h2,
-.color-change h3,
-.color-change p {
+.color-change h3 {
     color: white;
 }
 .footer-change {
     background-color: hsl(210, 19%, 17%);
 }
-.no-shadow {
-    box-shadow: none;
+.nav-change p {
+    color: white;
 }
 
 img {
